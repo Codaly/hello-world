@@ -1,1 +1,5 @@
 # hello-world
+
+Hi, everyone! Codaly here. I've been programming and some software development since the age of 7. I started out doing so on an Atari 800 system using the basic cartridge that came along with it. Eight years later a friend of mine got me re-interested in programming using DOS line commands. Needless to say the following year at sixteen I took a course in Pascal. It was the same yaer Microsoft came out with Windows 3.1. I still remember my final Pascal program I made: a database program where you used the keyboard and arrow keys to create, modify, and delete files. The shell of my database had a Windows feel to it; a blue background with a red background in top of that with a black background in back and slightly below the red background. It sucks that I lost that program too.
+
+That's me in a nutshell. Where I've come from. Where I'd like to go, even if it means working on a team, is making an OS that rivals both Microsoft and Apple for the future. And not only that but it would be nice to get better at web development, create some games, as well as build a line of computers. Ambitious much, right?
